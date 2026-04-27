@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "Atividade UI Kit",
-    "slug": "Atividade UI Kit",
+    "slug": "AtividadeUIKit",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/splash-icon.png",
@@ -24,6 +24,18 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "3577f4f8-5eb0-4903-a6fd-d79d126ca86c"
+      }
+    },
+    "owner": "viniciussmiranda",
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/3577f4f8-5eb0-4903-a6fd-d79d126ca86c"
     }
   }
 }
